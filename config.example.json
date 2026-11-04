@@ -1,0 +1,127 @@
+{
+  "finance_db": "~/Library/Containers/ru.innim.myFinance/Data/Documents/MyFinance.db",
+  "app_name": "Money manager",
+  "messages_db": "~/Library/Messages/chat.db",
+  "senders": [
+    "Priorbank",
+    "BelVEB24.BY"
+  ],
+  "bank_timezone": "Europe/Minsk",
+  "start_from": "2026-11-05T00:00:00+03:00",
+  "cards": {
+    "4***1234": {
+      "account": "<uid счёта Приорбанк>",
+      "title": "Приорбанк"
+    },
+    "Priorbank*": {
+      "account": "<uid счёта Приорбанк>",
+      "title": "Приорбанк (зачисления без номера карты)"
+    },
+    "9.1234": {
+      "account": "<uid счёта БелВЭБ>",
+      "title": "БелВЭБ"
+    }
+  },
+  "atm_pattern": "\\batm|bankomat|nalichn|\\bcash\\b",
+  "cash_accounts": {
+    "BYN": "main"
+  },
+  "category_rules": [
+    {
+      "type": "Expense",
+      "category": "DefaultTransport",
+      "title": "Транспорт",
+      "pattern": "grab|bolt|uber|yandex.?go|taxi|whoosh|scooter|transport|metro|\\bbus\\b|pass\\.rw|rw\\.by|kupibilet|aviasales|belavia"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultCafe",
+      "title": "Кафе",
+      "pattern": "kafe|kaffe|cafe|restoran|restaurant|burger|mak\\.by|mcdonald|yandex.?eda|doner|kfc|pizza|coffee|starbucks|bakery|grill|sushi|bbq"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultProducts",
+      "title": "Продукты",
+      "pattern": "sosedi|evroopt|euroopt|\\bsanta\\b|gippo|\\bgreen\\b|groshyk|korona|almi|\\bhit\\b|circle ?k|7-?eleven|supermarket|gipermarket|market\\b|mart\\b"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultHealth",
+      "title": "Здоровье",
+      "pattern": "apteka|helix|laboratoriya|pharma|hospital|clinic|medic|stomat"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultSport",
+      "title": "Спорт",
+      "pattern": "fitnes|fitness|\\bgym\\b|sport"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultHome",
+      "title": "Дом",
+      "pattern": "ikea|mr\\.? ?diy|miniso|daiso|oma\\b|21vek"
+    },
+    {
+      "type": "Expense",
+      "category": "DefaultLeisure",
+      "title": "Досуг",
+      "pattern": "cinema|kino|karaoke|bowling|silverscreen|ticketpro|kvitki"
+    },
+    {
+      "type": "Expense",
+      "category": "<uid категории «Вещи» или удали это правило>",
+      "title": "Вещи",
+      "pattern": "wildberries|ozon|lamoda|mango|zara|uniqlo|nike|adidas|decathlon"
+    },
+    {
+      "type": "Expense",
+      "category": "<uid категории «Связь» или удали это правило>",
+      "title": "Связь",
+      "pattern": "\\ba1\\b|\\bmts\\b|\\blife\\b"
+    },
+    {
+      "type": "Expense",
+      "category": "<uid категории «Подписки» или удали это правило>",
+      "title": "Подписки",
+      "pattern": "openai|chatgpt|anthropic|claude\\.ai|spotify|netflix|youtube|icloud|apple\\.com"
+    },
+    {
+      "type": "Income",
+      "category": "DefaultPercents",
+      "title": "Проценты по вкладу",
+      "pattern": "procenty"
+    }
+  ],
+  "review_rules": [
+    {
+      "type": "Expense",
+      "pattern": "equation|mobile bank|p2p|perevod|card to card",
+      "note": "списание без магазина: перевод, P2P или налог — проверь"
+    },
+    {
+      "type": "Income",
+      "pattern": ".",
+      "note": "зачисление без описания — проверь, перевод это или доход"
+    }
+  ],
+  "default_categories": {
+    "Expense": "other_expense",
+    "Income": "other_income"
+  },
+  "otp_labels": {
+    "ERIP": "ЕРИП-платёж",
+    "CARD TO CARD": "перевод на карту"
+  },
+  "tron_wallets": [],
+  "bybit": {
+    "enabled": false,
+    "account": "<uid счёта Bybit>",
+    "deposit_address": "",
+    "pay_category": "DefaultCafe",
+    "member_labels": {}
+  },
+  "crypto_default_categories": {},
+  "address_labels": {}
+}

@@ -1,0 +1,53 @@
+Karta 4***1234 02-11-26 21:15:10. Oplata 25000.00 VND. VNM CIRCLE K 456. Balance: 812.40 BYN Tel. 7299090
+---
+Karta 4***1234 03-11-26 08:12:44. Oplata 52000.00 VND. VNM Grab* A-AB12CD34EF56GH. Balance: 806.15 BYN Tel. 7299090
+---
+<#> 03/11 12:30. Platezh s DK1234, schet platezha 375290000000. Summa 50.0 BYN. M-code:000000. Tel. 7299090 AbCdEf0g1/H
+---
+Karta 4***1234 03-11-26 12:30:05. Oplata 50.00 BYN. BLR MOBILE BANK. Balance: 756.15 BYN Tel. 7299090
+---
+Karta 4***1234 04-11-26 18:40:00. Oplata 95000.00 VND. VNM Grab* A-ZX98YW76VU54TS. Balance: 744.72 BYN Tel. 7299090
+---
+123456 Код для операции БелВЭБ. Card to card, 120.00 BYN
+---
+Karta 9.1234 01.11.2026
+10:05:12
+Spisanie - 120.00 BYN P2P UP ONLINE ONLINE SERVICE BLR
+OK
+Dostupno 480.00 BYN
+---
+Karta 9.1234 01.11.2026
+18:20:30
+Spisanie - 300.00 BYN
+Equation - Izmenenie ostatka
+OK
+Остаток 180.00 BYN
+---
+Karta 9.1234 03.11.2026
+09:00:00
+Zachislenie + 250.00 BYN
+Equation - Izmenenie ostatka
+OK.
+Dostupno 430.00 BYN
+---
+Karta 9.1234 03.11.2026
+11:45:10
+Spisanie - 25.00 BYN Equation
+- Izmenenie ostatka   OK
+Остаток 405.00 BYN
+---
+Karta 4***1234 26-06-26 22:48:30. Perevod 10.00 BYN. BLR P2P_SDBO. Balance: 120.50 BYN Tel. 7299090
+---
+28/06 13:30. Na vashu kartu zachisleno 20.00 BYN. Dostupnaja summa: 140.50 BYN. Tel. 7299090
+---
+Karta 9.1234 13.10.2026 13:39:01
+Spisanie -900.00 RUB AEROEXPRESS MOSKVA RUS OK.
+Dostupno 350.20 BYN
+---
+Karta 9.1234 02.07.2026 00:23:07
+Spisanie -20.00 BYN ATMTBK HO12 MINSK BLR OK.
+Dostupno 75.00 BYN
+---
+Karta 9.1234 05.09.2026 04:42:55
+Spisanie -1143.00 RUB YANDEX*4121*TAXI Moscow RUS OK.
+Dostupno 300.00 BYN

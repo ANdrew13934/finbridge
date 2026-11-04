@@ -1,0 +1,11 @@
+# personal data: never commit
+config.json
+state.json
+state.tmp
+status.json
+backups/
+*.log
+*.out
+.lock
+__pycache__/
+.DS_Store
